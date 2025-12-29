@@ -1,0 +1,8 @@
+{
+  "name": "anomaly-detection-agent",
+  "version": "1.0",
+  "description": "Detects anomalies in time series or sensor data and provides recommendations.",
+  "author": "Your Name",
+  "email": "your.email@example.com",
+  "license": "MIT"
+}

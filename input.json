@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": {"type": "number"},
+      "description": "The input time series or sensor data for anomaly detection."
+    }
+  },
+  "required": ["data"]
+}

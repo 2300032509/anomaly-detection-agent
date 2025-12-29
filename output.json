@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "anomalies": {
+      "type": "array",
+      "items": {"type": "integer"},
+      "description": "Indices of detected anomalies in the input data."
+    },
+    "recommendations": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Suggested actions based on detected anomalies."
+    }
+  }
+}
